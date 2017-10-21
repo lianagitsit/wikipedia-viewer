@@ -1,0 +1,41 @@
+#container {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 960px;
+    border: 1px solid green;
+    padding: 5px;
+    margin: 10px auto 10px auto;
+}
+
+#main {
+    border: 1px solid red;
+    padding: 5px;
+}
+
+#random {
+    display: block;
+    text-align: center;
+}
+
+#wikireturns {
+    border: 1px solid blue;
+    padding: 5px;
+    margin: 5px 0px 0px 0px;
+}
+
+li {
+    border: 1px solid black;
+    margin: 5px;
+    padding: 5px;
+    background-color: lightcyan;
+    text-align: left;
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+.title {
+    font-weight: bold;
+}
